@@ -1,0 +1,55 @@
+[
+  {
+    "pokemonOwnerName": "Aishwarya",
+    "pokemons": [
+      {
+        "id": "95e62368-546d-4200-90c3-43e514a77a1c",
+        "pokemonOwnerName": "Aishwarya",
+        "direction": "Right",
+        "initialPositionX": "2",
+        "initialPositionY": "3",
+        "pokemonName": "metapod",
+        "pokemonAbility": "shed-skin",
+        "speed": "10"
+      },
+      {
+        "pokemonName": "caterpie",
+        "pokemonAbility": "shield-dust",
+        "initialPositionX": 0,
+        "initialPositionY": 0,
+        "speed": 10,
+        "direction": "north"
+      }
+    ]
+  },
+  {
+    "pokemonOwnerName": "Priya",
+    "pokemons": [
+      {
+        "id": "ccd5fe03-e826-4b9e-afc1-0b62f89e5271",
+        "pokemonOwnerName": "Priya",
+        "direction": "Left",
+        "initialPositionX": "3",
+        "initialPositionY": "4",
+        "pokemonName": "weedle",
+        "pokemonAbility": "shield-dust",
+        "speed": "20"
+      }
+    ]
+  },
+  {
+    "pokemonOwnerName": "Ritu",
+    "pokemons": [
+      {
+        "id": "deaf43bc-eb5a-41e9-a032-25fba156e382",
+        "pokemonOwnerName": "Ritu",
+        "direction": "Straight",
+        "initialPositionX": "5",
+        "initialPositionY": "8",
+        "pokemonName": "metapod",
+        "pokemonAbility": "shed-skin",
+        "speed": "22"
+      }
+    ]
+  }
+]
